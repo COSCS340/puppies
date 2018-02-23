@@ -1,4 +1,4 @@
-# Example Repo (version 1)
+# Example Repo (version 2)
 
 Welcome to git flow!
 
